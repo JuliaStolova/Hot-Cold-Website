@@ -18,9 +18,9 @@
             <h3>Your only friend in</h3>
             <div>
                 <ul class=" text-lime-400 poppins-medium">
-                    <li><span>Travelling</span></li>
-                    <li><span>Long work days</span></li>
-                    <li><span>School lunch breaks</span></li>
+                    <li><span class="relative">Travelling</span></li>
+                    <li><span class="relative">Long work days</span></li>
+                    <li><span class="relative">School lunch breaks</span></li>
                 </ul>
             </div>
         </div>
@@ -63,7 +63,7 @@
             <div class="flex justify-center"> 
                 <img src="" alt="mua" />
             </div>
-            <div class="p-2.5">
+            <div class="p-2.5 width-[300px] sm:w-[500px]">
                 <p>
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                     Tenetur voluptas laboriosam animi alias voluptatum
